@@ -1,0 +1,26 @@
+# NetBeans
+nbbuild/
+build/
+dist/
+nbproject/private/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.iml
+*.ipr
+*.iws
+
+# Java class files
+*.class
+
+# Database backup (kecuali file .sql)
+*.db
+*.sqlite
+*.mv.db
+
+# JAR output
+*.jar
