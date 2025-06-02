@@ -21,6 +21,3 @@ Thumbs.db
 *.db
 *.sqlite
 *.mv.db
-
-# JAR output
-*.jar
